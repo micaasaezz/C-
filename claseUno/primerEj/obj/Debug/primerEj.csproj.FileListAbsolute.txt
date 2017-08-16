@@ -1,0 +1,6 @@
+D:\clase1C#\claseUno\primerEj\bin\Debug\primerEj.exe.config
+D:\clase1C#\claseUno\primerEj\bin\Debug\primerEj.exe
+D:\clase1C#\claseUno\primerEj\bin\Debug\primerEj.pdb
+D:\clase1C#\claseUno\primerEj\obj\Debug\primerEj.csprojResolveAssemblyReference.cache
+D:\clase1C#\claseUno\primerEj\obj\Debug\primerEj.exe
+D:\clase1C#\claseUno\primerEj\obj\Debug\primerEj.pdb

@@ -1,0 +1,5 @@
+D:\clase1C#\claseUno\ejercicioUno\bin\Debug\ejercicioUno.exe.config
+D:\clase1C#\claseUno\ejercicioUno\bin\Debug\ejercicioUno.exe
+D:\clase1C#\claseUno\ejercicioUno\bin\Debug\ejercicioUno.pdb
+D:\clase1C#\claseUno\ejercicioUno\obj\Debug\ejercicioUno.exe
+D:\clase1C#\claseUno\ejercicioUno\obj\Debug\ejercicioUno.pdb

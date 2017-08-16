@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primerEj", "primerEj\primerEj.csproj", "{5BB03006-1DF4-4D77-8EC5-9DE4D0E9F34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioUno", "ejercicioUno\ejercicioUno.csproj", "{841BF03E-D794-4FF9-B033-2F18994DE2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB03006-1DF4-4D77-8EC5-9DE4D0E9F34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB03006-1DF4-4D77-8EC5-9DE4D0E9F34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB03006-1DF4-4D77-8EC5-9DE4D0E9F34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB03006-1DF4-4D77-8EC5-9DE4D0E9F34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841BF03E-D794-4FF9-B033-2F18994DE2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841BF03E-D794-4FF9-B033-2F18994DE2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841BF03E-D794-4FF9-B033-2F18994DE2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841BF03E-D794-4FF9-B033-2F18994DE2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
