@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\claseDos\ejercicio 11\bin\Debug\ejercicio 11.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\claseDos\ejercicio 11\bin\Debug\ejercicio 11.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\claseDos\ejercicio 11\bin\Debug\ejercicio 11.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\claseDos\ejercicio 11\obj\Debug\ejercicio 11.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\claseDos\ejercicio 11\obj\Debug\ejercicio 11.pdb
