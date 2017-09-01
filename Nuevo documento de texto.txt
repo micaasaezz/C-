@@ -1,0 +1,195 @@
+Unidad 1
+Lenguajes de programación
+ 
+Las primeras formas de programar eran por... *
+0/1
+Modificación de los datos ingresados
+Por el cableado de los computadores
+Por discos Rígidos virtuales
+Respuesta correcta
+Por el cableado de los computadores
+ 
+¿Qué es un lenguaje de maquina?
+0/1
+La comunicación entre dos dispositivos
+El lenguaje universal de las redes
+El lenguaje que se ejecutaban directamente sobre el hardware del equipo.
+El lenguaje que se escribe en C o C++.
+Respuesta correcta
+El lenguaje que se ejecutaban directamente sobre el hardware del equipo.
+ 
+¿Qué es el Assembler? *
+0/1
+El lenguaje maquina
+El nombre del creador del primer leguaje
+El primer nivel de abstracción
+La marca del primer Software
+Respuesta correcta
+El primer nivel de abstracción
+ 
+¿Para qué el lenguaje de alto nivel? *
+0/1
+Para abstraer al programador del hardware del sistema.
+Para mejorar el rendimiento del hardware
+No es más que una secuencia de dígitos binarios
+Para no tener que conocer la arquitectura del sistema
+Respuesta correcta
+Para abstraer al programador del hardware del sistema.
+Para no tener que conocer la arquitectura del sistema
+ 
+¿Qué es un lenguaje compilado? *
+0/1
+Lenguaje de maquina.
+Lenguaje que usa un compilador, para pasarlo a lenguaje de maquina
+Lenguaje que se genera a partir de un lenguaje interpretado
+Lenguaje que usa un intérprete, para traducir el código fuente a código de máquina.
+Es linux
+Es Windows
+Todos los sistemas operativos
+Respuesta correcta
+Lenguaje que usa un compilador, para pasarlo a lenguaje de maquina
+ 
+¿Qué es un lenguaje Interpretado *
+Lenguaje de maquina
+Lenguaje que usa un compilador, para pasarlo a lenguaje de maquina
+Lenguaje que se genera a partir de un lenguaje interpretado
+Lenguaje que usa un intérprete, para traducir el código fuente a código de máquina.
+Es linux
+Es windows
+Todos los sistemas operativos
+Respuesta correcta
+Lenguaje que usa un intérprete, para traducir el código fuente a código de máquina.
+ 
+¿Cuales de estos son lenguajes Interpretados? *
+0/1
+C
+PHP
+JavaScript
+JAVA
+C#(sharp)
+Python
+C++
+Respuesta correcta
+PHP
+JavaScript
+Python
+ 
+¿Cuales de estos son lenguajes Compilados? *
+0/1
+C
+PHP
+JavaScript
+JAVA
+C#(sharp)
+Python
+C++
+Respuesta correcta
+C
+JAVA
+C#(sharp)
+C++
+Unidad 2
+Elementos fundamentales de los sistemas operativos
+Kernel
+
+ 
+El Kernel es: *
+0/1
+El software que primero que ve el usuario
+El código fuente de linux
+Un tipo de sistema operativo
+El software que permite la interacción con el hardware
+ 
+El software que administra la comunicación entre programas.
+ 
+Es el intérprete de línea de comandos o command-line shells.
+ 
+Es la interfaz gráfica
+Respuesta correcta
+El software que permite la interacción con el hardware
+El software que administra la comunicación entre programas.
+ 
+Todos los S.O. tienen intérprete de línea de comandos (consola) *
+1/1
+si
+ 
+no
+ 
+¿A qué nos referimos con distribución? *
+1/1
+Conjunto del kernel de Linux + aplicaciones fundamentales+ configuraciones del mismo.
+ 
+La forma libre del software
+El kernel de una empresa determinada
+Una nueva versión de linux
+Una nueva versión del kernel de linux
+ 
+¿Cuales de estos son sistemas operativos? *
+windows
+ 
+Excel
+kernel
+Visual Studio
+UNIX
+ 
+Mac OS
+Gnome
+Ubuntu
+ 
+KDE
+Respuesta correcta
+windows
+UNIX
+Mac OS
+Ubuntu
+ 
+¿Qué es el GNU? *
+…
+/2
+un sistema operativo de tipo Unix de software libre
+Unidad 3
+Entendiendo  los  distintos  tipos  de  licencia de software 
+ 
+¿Cuál es el software de código abierto ? *
+1/1
+solo programas gratis
+linux
+ 
+Windows
+word
+El que muestra su código fuente.
+ 
+El que se programó y no se compiló
+El que no me permite modificarlo
+El que debo pagar para usarlo
+ 
+¿Cuál es el software Privativo ? *
+0/1
+solo programas gratis
+linux
+Windows
+ 
+word
+El que muestra su código fuente.
+El que se programó y no se compiló
+El que no me permite modificarlo
+ 
+El que debo pagar para usarlo
+Respuesta correcta
+Windows
+word
+El que no me permite modificarlo
+El que debo pagar para usarlo
+ 
+¿Cuales son las libertades del software según el FSF? *
+…
+/1
+puede ser copiado, estudiado, modificado, utilizado libremente con cualquier fin y redistribuido con o sin cambios o mejoras
+¿Qué es el Copyright? *
+El derecho de autor es un conjunto de normas jurídicas y principios que afirman los derechos morales y patrimoniales que la ley concede a los autores (los derechos de autor), por el simple hecho de la creación de una obra literaria, artística, musical, científica o didáctica, esté publicada o inédita
+ 
+¿Existe el copyleft ? *
+1/1
+si
+ 
+no
