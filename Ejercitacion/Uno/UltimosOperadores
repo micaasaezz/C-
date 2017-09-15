@@ -1,0 +1,11 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  exit
+    6  ls
+    7  cd Ejercitacion/
+    8  ls
+    9  cd Uno/
+   10  ls
+   11  history >> UltimosOperadores

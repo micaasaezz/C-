@@ -1,0 +1,30 @@
+   55  cat SaludarDos
+   56  pwd
+   57  cat /etc/passwd > Saludar
+   58  more Saludar
+   59  cd ..
+   60  mkdir Error
+   61  ls
+   62  rm Saludar
+   63  ls
+   64  rm Error
+   65  ls
+   66  rm -r Error
+   67  ls
+   68  mkdir 2/2bis/{5,6}
+   69  mkdir -p 2/2bis/{5,6}
+   70  ls
+   71  tree
+   72  cd /2/2bis/6
+   73  cd 2/2bis/6
+   74  ./../../Uno/SaludarDos
+   75  ../../Uno/SaludarDOs
+   76  ../../Uno/SaludarDos
+   77  ./Uno/SaludarDos
+   78  ../../../Uno/SaludarDos
+   79  ./../../Uno/SaludarDos
+   80  ./../Uno/SaludarDos
+   81  ./../../../Uno/SaludarDos
+   82  history > PrimerosComados
+   83  cat PrimerosComados 
+   84  history | tail -30 > UltimosComandos

@@ -1,0 +1,82 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  exit
+    6  mkdir Ejercitacion
+    7  ls
+    8  ls- s
+    9  ls -a
+   10  ls
+   11  clear
+   12  ls
+   13  cd /home
+   14  ls
+   15  mkdir Ejercitacion
+   16  clear
+   17  ls
+   18  cd /alumno
+   19  cd alumno
+   20  clear
+   21  ls
+   22  cd Ejercitacion
+   23  mkdir Uno
+   24  ls
+   25  clear
+   26  ls
+   27  touch Saludar
+   28  ls
+   29  cd Uno
+   30  touch Saludar
+   31  ls
+   32  cd Ejercitacion
+   33  cd /Ejercitacion
+   34  clear
+   35  ls
+   36  echo "Hola"
+   37  echo "Hola" > Saludar  
+   38  cat SAludar
+   39  cat Saludar
+   40  echo "echo 'hola'" > SaludarDos
+   41  cat SaludarDos
+   42  ls -l
+   43  chmode +x
+   44  ls -l
+   45  chmode +x
+   46  chmod +x
+   47  chmod +x SaludarDos
+   48  ls -l
+   49  ./SaludarDos
+   50  echo "ls -l" >> SaludarDos
+   51  cat SaludarDOs
+   52  la -l
+   53  cat SaludarDos
+   54  ./SaludarDos
+   55  cat SaludarDos
+   56  pwd
+   57  cat /etc/passwd > Saludar
+   58  more Saludar
+   59  cd ..
+   60  mkdir Error
+   61  ls
+   62  rm Saludar
+   63  ls
+   64  rm Error
+   65  ls
+   66  rm -r Error
+   67  ls
+   68  mkdir 2/2bis/{5,6}
+   69  mkdir -p 2/2bis/{5,6}
+   70  ls
+   71  tree
+   72  cd /2/2bis/6
+   73  cd 2/2bis/6
+   74  ./../../Uno/SaludarDos
+   75  ../../Uno/SaludarDOs
+   76  ../../Uno/SaludarDos
+   77  ./Uno/SaludarDos
+   78  ../../../Uno/SaludarDos
+   79  ./../../Uno/SaludarDos
+   80  ./../Uno/SaludarDos
+   81  ./../../../Uno/SaludarDos
+   82  history > PrimerosComados
