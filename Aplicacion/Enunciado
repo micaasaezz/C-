@@ -1,0 +1,10 @@
+Enunciado del repaso
+1- Cargar el historial de la consola en fotos.dat
+2- DEscargar la pagina de Google en index.html
+3- Crear el archivo listadoConSaludo, que contenga el mensaje Bienvenido
+4- Cargarle el comando para listar con detalles para humanos
+5- Hacer ejecutable el listado con saludo
+6- Crear el subdirectorio usuario
+7- Crear el subdirectorio fotos dentro de usuario
+8- Mover el archivo fotos.dat al subdirectorio fotos
+9- Mover el subdirectorio datos a usuario

@@ -1,0 +1,63 @@
+    1  apt-get update && apt-get upgrade
+    2  apt-cache search kernel-header
+    3  apt-cache search linux-headers
+    4  apt-get install linux-header
+    5  apt-get install linux-headers
+    6  apt-get install linux-headers-$(uname -r)
+    7  apt-cache search build
+    8  apt-cache search build | more
+    9  apt-get install build-essential
+   10  apt-get install lvm mdadm tree less git mc
+   11  apt-get install lvm2 mdadm tree less git mc
+   12  cd /media/alumno/VBOXADDITIONS_5.1.8_111374/
+   13  ls -l
+   14  ./VBoxLinuxAdditions.run 
+   15  apt-get clean
+   16  reboot
+   17  shadow 
+   18  more shadow
+   19  cd ..
+   20  more shadow etc/
+   21  more shadow /etc/
+   22  more etc/shadow
+   23  clear
+   24  exit
+   25  cd /home/
+   26  apt 
+   27  apt get
+   28  apt get install
+   29  apt get
+   30  apt get install terminator
+   31  cd /
+   32  apt get install terminator
+   33  apt get
+   34  apt 
+   35  apt get update
+   36  get install
+   37  apt gey cehck
+   38  apt gey check
+   39  apt get check
+   40  exit
+   41  apt-get check
+   42  apt-get update
+   43  cd /
+   44  man dpkg
+   45  dpkg -L mc | more
+   46* dpkg
+   47  which
+   48  which 100
+   49  which cat
+   50* which ls 
+   51  which man
+   52  which apkg
+   53  which apt-get
+   54  which dpkg
+   55  ls
+   56  cd home
+   57  ls
+   58  cd alumno/
+   59  ls
+   60  cd Ap
+   61  cd Aplicacion/
+   62  history > /Comandos
+   63  history > Comandos

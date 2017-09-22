@@ -1,0 +1,55 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  exit
+    6  ls
+    7  mkdir -p Aplicacion/{Datos,Datos,Fuciones}/Fotos.dat/index.html/listadoConSaludo
+    8  tree Aplicacion/
+    9  rm -r Aplicacion/
+   10  mkdir -p Aplicacion/{Datos, Funciones, Datos}
+   11  tree Aplicacion/
+   12  rm -r Aplicacion/
+   13  mkdir -p Aplicacion/{Datos,Funciones,Datos}
+   14  tree Aplicacion/
+   15  rm -r Aplicacion/
+   16  ls
+   17  rm Datos}/
+   18  rm -r Datos}/
+   19  rm -r Funciones,/
+   20  clear
+   21  mkdir -p Aplicacion/{Datos,Funciones}
+   22  tree Aplicacion/
+   23  cd Aplicacion/
+   24  echo "Enunciado del repaso" >>Enunciado
+   25  ls
+   26  cat Enunciado 
+   27  cd Aplicacion/Datos 
+   28  cd /Aplicacion/Datos 
+   29  cd /Datos
+   30  cd Datos
+   31  mkdir -p Fotos.dat
+   32  cd ..
+   33  cd Datos
+   34  touch index.html
+   35  ls
+   36  cd ..
+   37  cd Funciones
+   38  touch listadoConSaludo
+   39  cd ..
+   40  cd rm -r Fotos.dat
+   41  cd Datos
+   42  touch fotos.dat
+   43  cd..
+   44  cd ..
+   45  ls
+   46  clear
+   47  cat Enunciado 
+   48  cd Enunciado
+   49  echo "1- Cargar el historial de la consola en fotos.dat" >> Enunciado
+   50  echo "2- DEscargar la pagina de Google en index.html">>Enunciado
+   51  echo "3- Crear el archivo listadoConSaludo, que contenga el mensaje Bienvenido" >>Enunciado
+   52  echo "4- Cargarle el comando para listar con detalles para humanos" >>Enunciado
+   53  echo "5- Hacer ejecutable el listado con saludo" >>Enunciado
+   54  cat Enunciado
+   55  history >> Datos/fotos.dat
