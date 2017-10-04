@@ -1,0 +1,39 @@
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Llamada.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+D:\MAXI\CentralitaWindowsForms\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+C:\Users\alumno\Desktop\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+C:\Users\alumno\Desktop\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+C:\Users\alumno\Desktop\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\Centralita.V2.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\Centralita.V2.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Llamada.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\Centralita.V2\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\CentralitaWindowsForms.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\Centralita.V2.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\bin\Debug\Centralita.V2.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmCentralita.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmLlamada.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmLocal.resources
+D:\Mis Documentos\Visual Studio 2012\Projects\asd\CentralitaWindowsForms_starter\CentralitaWindowsForms\obj\Debug\CentralitaWindowsForms.FrmProvincial.resources
